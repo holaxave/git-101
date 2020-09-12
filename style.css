@@ -1,0 +1,10 @@
+style.css
+body {
+	margin: 0;
+	font-family: Helvetica;
+
+	#img {
+		height: 100vh;
+		flex-direction: center; 
+	}
+}
